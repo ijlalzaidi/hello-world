@@ -1,2 +1,3 @@
 # hello-world
 this is a GitHub learning lesson for beginers....
+I'm an IT professional working with fortune 100 company in USA.
